@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Feb 2023 10:23:52 +0100</lastBuildDate><atom:link href="https://keyboardsmash.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://keyboardsmash.dev/about/</link>
+      <pubDate>Wed, 01 Feb 2023 11:25:26 +0100</pubDate>
+      
+      <guid>https://keyboardsmash.dev/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Today&#39;s Mantra</title>
       <link>https://keyboardsmash.dev/posts/today-s-mantra/</link>
       <pubDate>Wed, 01 Feb 2023 10:23:52 +0100</pubDate>

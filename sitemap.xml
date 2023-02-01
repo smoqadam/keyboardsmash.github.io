@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://keyboardsmash.dev/about/</loc>
+    <lastmod>2023-02-01T11:25:26+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/categories/</loc>
+    <lastmod>2023-02-01T10:23:52+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/categories/mantra/</loc>
+    <lastmod>2023-02-01T10:23:52+01:00</lastmod>
+  </url><url>
     <loc>https://keyboardsmash.dev/posts/</loc>
     <lastmod>2023-02-01T10:23:52+01:00</lastmod>
   </url><url>
@@ -11,8 +20,14 @@
     <loc>https://keyboardsmash.dev/posts/today-s-mantra/</loc>
     <lastmod>2023-02-01T10:23:52+01:00</lastmod>
   </url><url>
+    <loc>https://keyboardsmash.dev/categories/personal/</loc>
+    <lastmod>2023-01-29T12:36:24+01:00</lastmod>
+  </url><url>
     <loc>https://keyboardsmash.dev/posts/what-next/</loc>
     <lastmod>2023-01-29T12:36:24+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/categories/books/</loc>
+    <lastmod>2022-01-05T14:36:29+01:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/books-i-loved-most-in-2021/</loc>
     <lastmod>2022-01-05T14:36:29+01:00</lastmod>
@@ -20,11 +35,8 @@
     <loc>https://keyboardsmash.dev/posts/on-being-human/</loc>
     <lastmod>2021-10-29T20:33:58+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/categories/book/</loc>
-    <lastmod>2021-08-16T21:23:45+08:00</lastmod>
-  </url><url>
-    <loc>https://keyboardsmash.dev/categories/</loc>
-    <lastmod>2021-08-16T21:23:45+08:00</lastmod>
+    <loc>https://keyboardsmash.dev/categories/thoughts/</loc>
+    <lastmod>2021-10-29T20:33:58+08:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/to-remember-during-the-bad-days/</loc>
     <lastmod>2021-08-16T21:23:45+08:00</lastmod>
@@ -53,6 +65,9 @@
     <loc>https://keyboardsmash.dev/tags/idea/</loc>
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
+    <loc>https://keyboardsmash.dev/categories/ideas/</loc>
+    <lastmod>2021-01-21T15:23:45+08:00</lastmod>
+  </url><url>
     <loc>https://keyboardsmash.dev/categories/programming/</loc>
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
@@ -60,9 +75,6 @@
     <lastmod>2021-01-17T16:08:20+08:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/2020-in-a-nutshell/</loc>
-    <lastmod>2021-01-14T21:23:45+08:00</lastmod>
-  </url><url>
-    <loc>https://keyboardsmash.dev/categories/personal/</loc>
     <lastmod>2021-01-14T21:23:45+08:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/how-download-youtube-videos-by-php/</loc>

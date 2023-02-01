@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book on Saeed&#39;s Blog</title>
-    <link>https://keyboardsmash.dev/categories/book/</link>
-    <description>Recent content in Book on Saeed&#39;s Blog</description>
+    <title>Mantra on Saeed&#39;s Blog</title>
+    <link>https://keyboardsmash.dev/categories/mantra/</link>
+    <description>Recent content in Mantra on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 Aug 2021 21:23:45 +0800</lastBuildDate><atom:link href="https://keyboardsmash.dev/categories/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 10:23:52 +0100</lastBuildDate><atom:link href="https://keyboardsmash.dev/categories/mantra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Today&#39;s Mantra</title>
+      <link>https://keyboardsmash.dev/posts/today-s-mantra/</link>
+      <pubDate>Wed, 01 Feb 2023 10:23:52 +0100</pubDate>
+      
+      <guid>https://keyboardsmash.dev/posts/today-s-mantra/</guid>
+      <description>Let&amp;rsquo;s approach today differently.
+Let&amp;rsquo;s be mindful.
+Let&amp;rsquo;s not worry about the future.
+Whenever our minds wander, let&amp;rsquo;s bring them back to the present moment.
+Let&amp;rsquo;s love.
+Let&amp;rsquo;s smile.</description>
+    </item>
+    
     <item>
       <title>To remember during the bad days</title>
       <link>https://keyboardsmash.dev/posts/to-remember-during-the-bad-days/</link>

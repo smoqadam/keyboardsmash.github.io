@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>programming on Saeed&#39;s Blog</title>
+    <title>Programming on Saeed&#39;s Blog</title>
     <link>https://keyboardsmash.dev/categories/programming/</link>
-    <description>Recent content in programming on Saeed&#39;s Blog</description>
+    <description>Recent content in Programming on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Jan 2021 15:23:45 +0800</lastBuildDate><atom:link href="https://keyboardsmash.dev/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,15 @@
       <guid>https://keyboardsmash.dev/posts/a-few-ideas-for-your-next-go-project/</guid>
       <description>Have you ever been out of idea on what to code for your next open-source or side-project? As a beginner, you can find many resources and tutorials on different beginner-friendly projects out there. But when you pass that level, you just cannot come up with any interesting ideas to work on while you&amp;rsquo;re learning.
 You can take any of these ideas for your next project, and dont&amp;rsquo; forget the purpose of doing this, is learning.</description>
+    </item>
+    
+    <item>
+      <title>How to write a PHP Youtube video downloader</title>
+      <link>https://keyboardsmash.dev/posts/how-download-youtube-videos-by-php/</link>
+      <pubDate>Thu, 16 Apr 2020 21:37:50 +0800</pubDate>
+      
+      <guid>https://keyboardsmash.dev/posts/how-download-youtube-videos-by-php/</guid>
+      <description>PHP is not the best language for writing a download manager, but in this article, we are going to learn how we can download videos from Youtube. Because PHP does not support multithreading, we cannot make a proper download manager that split the file into several chunks and download it concurrently. There are some ways to add multithreading to PHP, but for the sake of this article, we won&amp;rsquo;t go through those ways and will stick to single threading.</description>
     </item>
     
     <item>

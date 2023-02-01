@@ -5,31 +5,58 @@
     <link>https://keyboardsmash.dev/categories/</link>
     <description>Recent content in Categories on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 Aug 2021 21:23:45 +0800</lastBuildDate><atom:link href="https://keyboardsmash.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 10:23:52 +0100</lastBuildDate><atom:link href="https://keyboardsmash.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Book</title>
-      <link>https://keyboardsmash.dev/categories/book/</link>
-      <pubDate>Mon, 16 Aug 2021 21:23:45 +0800</pubDate>
+      <title>Mantra</title>
+      <link>https://keyboardsmash.dev/categories/mantra/</link>
+      <pubDate>Wed, 01 Feb 2023 10:23:52 +0100</pubDate>
       
-      <guid>https://keyboardsmash.dev/categories/book/</guid>
+      <guid>https://keyboardsmash.dev/categories/mantra/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>programming</title>
+      <title>Personal</title>
+      <link>https://keyboardsmash.dev/categories/personal/</link>
+      <pubDate>Sun, 29 Jan 2023 12:36:24 +0100</pubDate>
+      
+      <guid>https://keyboardsmash.dev/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://keyboardsmash.dev/categories/books/</link>
+      <pubDate>Wed, 05 Jan 2022 14:36:29 +0100</pubDate>
+      
+      <guid>https://keyboardsmash.dev/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://keyboardsmash.dev/categories/thoughts/</link>
+      <pubDate>Fri, 29 Oct 2021 20:33:58 +0800</pubDate>
+      
+      <guid>https://keyboardsmash.dev/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>https://keyboardsmash.dev/categories/ideas/</link>
+      <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
+      
+      <guid>https://keyboardsmash.dev/categories/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
       <link>https://keyboardsmash.dev/categories/programming/</link>
       <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
       
       <guid>https://keyboardsmash.dev/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://keyboardsmash.dev/categories/personal/</link>
-      <pubDate>Thu, 14 Jan 2021 21:23:45 +0800</pubDate>
-      
-      <guid>https://keyboardsmash.dev/categories/personal/</guid>
       <description></description>
     </item>
     
