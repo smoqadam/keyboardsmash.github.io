@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Saeed&#39;s Blog</title>
-    <link>https://smoqadam.me/tags/</link>
+    <link>https://keyboardsmash.dev/tags/</link>
     <description>Recent content in Tags on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Feb 2021 16:08:20 +0800</lastBuildDate><atom:link href="https://smoqadam.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 16:08:20 +0800</lastBuildDate><atom:link href="https://keyboardsmash.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>book</title>
-      <link>https://smoqadam.me/tags/book/</link>
+      <link>https://keyboardsmash.dev/tags/book/</link>
       <pubDate>Mon, 15 Feb 2021 16:08:20 +0800</pubDate>
       
-      <guid>https://smoqadam.me/tags/book/</guid>
+      <guid>https://keyboardsmash.dev/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snippets</title>
-      <link>https://smoqadam.me/tags/snippets/</link>
+      <link>https://keyboardsmash.dev/tags/snippets/</link>
       <pubDate>Mon, 15 Feb 2021 16:08:20 +0800</pubDate>
       
-      <guid>https://smoqadam.me/tags/snippets/</guid>
+      <guid>https://keyboardsmash.dev/tags/snippets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://smoqadam.me/tags/go/</link>
+      <link>https://keyboardsmash.dev/tags/go/</link>
       <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
       
-      <guid>https://smoqadam.me/tags/go/</guid>
+      <guid>https://keyboardsmash.dev/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>idea</title>
-      <link>https://smoqadam.me/tags/idea/</link>
+      <link>https://keyboardsmash.dev/tags/idea/</link>
       <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
       
-      <guid>https://smoqadam.me/tags/idea/</guid>
+      <guid>https://keyboardsmash.dev/tags/idea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jwt</title>
-      <link>https://smoqadam.me/tags/jwt/</link>
+      <link>https://keyboardsmash.dev/tags/jwt/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
       
-      <guid>https://smoqadam.me/tags/jwt/</guid>
+      <guid>https://keyboardsmash.dev/tags/jwt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>https://smoqadam.me/tags/php/</link>
+      <link>https://keyboardsmash.dev/tags/php/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
       
-      <guid>https://smoqadam.me/tags/php/</guid>
+      <guid>https://keyboardsmash.dev/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>symfony</title>
-      <link>https://smoqadam.me/tags/symfony/</link>
+      <link>https://keyboardsmash.dev/tags/symfony/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
       
-      <guid>https://smoqadam.me/tags/symfony/</guid>
+      <guid>https://keyboardsmash.dev/tags/symfony/</guid>
       <description></description>
     </item>
     
