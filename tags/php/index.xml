@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>php on Keyboard Smash</title>
-    <link>https://keyboardsmash.dev/tags/php/</link>
-    <description>Recent content in php on Keyboard Smash</description>
+    <title>php on Saeed&#39;s Blog</title>
+    <link>https://smoqadam.me/tags/php/</link>
+    <description>Recent content in php on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Apr 2020 00:11:44 +0800</lastBuildDate><atom:link href="https://keyboardsmash.dev/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Apr 2020 00:11:44 +0800</lastBuildDate><atom:link href="https://smoqadam.me/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Authenticate User in Symfony 5 by Jwt</title>
-      <link>https://keyboardsmash.dev/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
+      <link>https://smoqadam.me/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
       
-      <guid>https://keyboardsmash.dev/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
+      <guid>https://smoqadam.me/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Nowadays, when we are talking about web development, regardless of the type of application or the programming language, one of the first things that come to mind is how to authenticate users. There are many types of authentication ways for this purpose such as login form, oAuth, JWT, API token, etc.&lt;/p&gt;
 &lt;p&gt;Reliability, security, easy to use and widely supported in many platform and languages make JWT one of the most popular authentication protocols in the web ecosystem.&lt;/p&gt;
