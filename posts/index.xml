@@ -5,7 +5,16 @@
     <link>https://keyboardsmash.dev/posts/</link>
     <description>Recent content in Posts on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 14:30:15 +0100</lastBuildDate><atom:link href="https://keyboardsmash.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 May 2023 20:02:58 +0200</lastBuildDate><atom:link href="https://keyboardsmash.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Base64 Implementation in Rust</title>
+      <link>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</link>
+      <pubDate>Tue, 16 May 2023 20:02:58 +0200</pubDate>
+      
+      <guid>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</guid>
+      <description>I&amp;rsquo;ve been learning Rust on and off for quite a some time and every time I pick it up again I learn something new. A few days ago when I came back to it again, I was looking for a educational project to do and I decided to implement the Base64 algorithm in Rust. In this post, I will explain how to encode data to base64 in Rust. Decoding from base64 will be covered in a separate blog post, but it&amp;rsquo;s worth practicing by implementing it yourself.</description>
+    </item>
+    
     <item>
       <title>Deploy Hugo on Github Pages with GitHub Actions</title>
       <link>https://keyboardsmash.dev/posts/deploy-hugo-into-github-pages/</link>
