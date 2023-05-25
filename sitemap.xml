@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</loc>
-    <lastmod>2023-05-16T20:02:58+02:00</lastmod>
+    <loc>https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/</loc>
+    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/categories/</loc>
+    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/</loc>
-    <lastmod>2023-05-16T20:02:58+02:00</lastmod>
+    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/categories/programming/</loc>
+    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/tags/rust/</loc>
+    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/</loc>
+    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/tags/</loc>
+    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</loc>
     <lastmod>2023-05-16T20:02:58+02:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/deploy-hugo-into-github-pages/</loc>
@@ -16,9 +31,6 @@
   </url><url>
     <loc>https://keyboardsmash.dev/about/</loc>
     <lastmod>2023-02-01T11:25:26+01:00</lastmod>
-  </url><url>
-    <loc>https://keyboardsmash.dev/categories/</loc>
-    <lastmod>2023-02-01T10:23:52+01:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/categories/mantra/</loc>
     <lastmod>2023-02-01T10:23:52+01:00</lastmod>
@@ -56,9 +68,6 @@
     <loc>https://keyboardsmash.dev/tags/snippets/</loc>
     <lastmod>2021-02-15T16:08:20+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/</loc>
-    <lastmod>2021-02-15T16:08:20+08:00</lastmod>
-  </url><url>
     <loc>https://keyboardsmash.dev/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</loc>
     <lastmod>2021-02-15T16:08:20+08:00</lastmod>
   </url><url>
@@ -72,9 +81,6 @@
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/categories/ideas/</loc>
-    <lastmod>2021-01-21T15:23:45+08:00</lastmod>
-  </url><url>
-    <loc>https://keyboardsmash.dev/categories/programming/</loc>
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/mans-search-for-meaning-highlights/</loc>

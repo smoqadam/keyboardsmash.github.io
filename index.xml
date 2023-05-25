@@ -5,7 +5,18 @@
     <link>https://keyboardsmash.dev/</link>
     <description>Recent content on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 May 2023 20:02:58 +0200</lastBuildDate><atom:link href="https://keyboardsmash.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 11:53:33 +0200</lastBuildDate><atom:link href="https://keyboardsmash.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Base64 implementation in Rust - Part 2: decoding</title>
+      <link>https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/</link>
+      <pubDate>Thu, 25 May 2023 11:53:33 +0200</pubDate>
+      
+      <guid>https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/</guid>
+      <description>In the previous article, we explored how base64 encoding works and successfully implemented it in Rust. Now, let&amp;rsquo;s delve into the process of decoding a base64-encoded string. It is important to note that the implementations discussed here are primarily for educational purposes, and for production environments, it is recommended to employ well-established libraries.
+Theory Here are the steps to decode a base64-encoded string:
+Split the string into groups of 4 characters.</description>
+    </item>
+    
     <item>
       <title>Base64 Implementation in Rust</title>
       <link>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</link>
