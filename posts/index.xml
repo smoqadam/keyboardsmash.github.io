@@ -5,7 +5,16 @@
     <link>https://keyboardsmash.dev/posts/</link>
     <description>Recent content in Posts on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 25 May 2023 11:53:33 +0200</lastBuildDate><atom:link href="https://keyboardsmash.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 13:32:54 +0200</lastBuildDate><atom:link href="https://keyboardsmash.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journey of Life</title>
+      <link>https://keyboardsmash.dev/posts/journey-of-life/</link>
+      <pubDate>Mon, 26 Jun 2023 13:32:54 +0200</pubDate>
+      
+      <guid>https://keyboardsmash.dev/posts/journey-of-life/</guid>
+      <description>&amp;ldquo;Wherever you’re hoping to get to in life, the quality of the journey must be more important than those fleeting moments when you actually seem to arrive at your destination. Because most of your life is the journey, most of your life is a process of solving problems. It is not and never will be the condition of basking in the absence of all problems. You will always have something to do.</description>
+    </item>
+    
     <item>
       <title>Base64 implementation in Rust - Part 2: decoding</title>
       <link>https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/</link>
