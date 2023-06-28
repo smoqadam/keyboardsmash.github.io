@@ -27,7 +27,7 @@ Split the string into groups of 4 characters.</description>
     </item>
     
     <item>
-      <title>Base64 Implementation in Rust</title>
+      <title>Base64 Implementation in Rust - Part 1: encoding</title>
       <link>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</link>
       <pubDate>Tue, 16 May 2023 20:02:58 +0200</pubDate>
       
