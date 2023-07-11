@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>snippets on Saeed&#39;s Blog</title>
     <link>https://keyboardsmash.dev/tags/snippets/</link>
     <description>Recent content in snippets on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 15 Feb 2021 16:08:20 +0800</lastBuildDate><atom:link href="https://keyboardsmash.dev/tags/snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Obstacle Is the Way by Ryan Holiday - Highlights</title>
