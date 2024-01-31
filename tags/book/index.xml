@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>book on Saeed&#39;s Blog</title>
     <link>https://keyboardsmash.dev/tags/book/</link>
     <description>Recent content in book on Saeed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Feb 2021 16:08:20 +0800</lastBuildDate><atom:link href="https://keyboardsmash.dev/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 16:08:20 +0800</lastBuildDate>
+    <atom:link href="https://keyboardsmash.dev/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Obstacle Is the Way by Ryan Holiday - Highlights</title>
       <link>https://keyboardsmash.dev/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</link>
       <pubDate>Mon, 15 Feb 2021 16:08:20 +0800</pubDate>
-      
       <guid>https://keyboardsmash.dev/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</guid>
       <description>you can focus your energy exclusively on solving problems, rather than reacting to them. When you worry, ask yourself, What am I choosing to not see right now? We are A-to-Z thinkers, fretting about A, obsessing over Z, yet forgetting all about B through Y. Think progress, not perfection. Okay, you’ve got to do something very difficult. Don’t focus on that. Instead break it down into pieces. Simply do what you need to do right now.</description>
     </item>
-    
     <item>
       <title>Man&#39;s Search for Meaning by Victor Frankl - Highlights</title>
       <link>https://keyboardsmash.dev/posts/mans-search-for-meaning-highlights/</link>
       <pubDate>Sun, 17 Jan 2021 16:08:20 +0800</pubDate>
-      
       <guid>https://keyboardsmash.dev/posts/mans-search-for-meaning-highlights/</guid>
       <description>Nietzsche: “He who has a Why to live for, can bear almost any How.” Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning. The greatest task for any person is to find meaning in his or her life. Frankl saw three possible sources for meaning: in work (doing something significant), in love (caring for another person), and in courage during diffcult times.</description>
     </item>
-    
   </channel>
 </rss>

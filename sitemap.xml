@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://keyboardsmash.dev/posts/journey-of-life/</loc>
-    <lastmod>2023-06-26T13:32:54+02:00</lastmod>
+    <loc>https://keyboardsmash.dev/categories/</loc>
+    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/tags/git/</loc>
+    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/posts/global-gitignore/</loc>
+    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/</loc>
-    <lastmod>2023-06-26T13:32:54+02:00</lastmod>
+    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/categories/programming/</loc>
+    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/</loc>
+    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/tags/</loc>
+    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
+  </url><url>
+    <loc>https://keyboardsmash.dev/posts/journey-of-life/</loc>
     <lastmod>2023-06-26T13:32:54+02:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/</loc>
     <lastmod>2023-05-25T11:53:33+02:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/categories/</loc>
-    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
-  </url><url>
-    <loc>https://keyboardsmash.dev/categories/programming/</loc>
-    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
-  </url><url>
     <loc>https://keyboardsmash.dev/tags/rust/</loc>
-    <lastmod>2023-05-25T11:53:33+02:00</lastmod>
-  </url><url>
-    <loc>https://keyboardsmash.dev/tags/</loc>
     <lastmod>2023-05-25T11:53:33+02:00</lastmod>
   </url><url>
     <loc>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</loc>
